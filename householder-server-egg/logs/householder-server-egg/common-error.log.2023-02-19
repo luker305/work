@@ -1,0 +1,98 @@
+2023-02-07 21:21:13,315 ERROR 54600 [-/127.0.0.1/-/39ms POST /user/login] nodejs.TypeError: Cannot read property 'getAdministratorByLogin' of undefined
+    at CommonController.login (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\common.js:16:47)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:36:12
+
+pid: 54600
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-07 21:22:00,442 ERROR 54600 [-/127.0.0.1/-/2ms POST /user/login] nodejs.TypeError: Cannot read property 'getAdministratorByLogin' of undefined
+    at CommonController.login (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\common.js:16:47)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:36:12
+
+pid: 54600
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-13 22:22:11,216 ERROR 91984 [-/127.0.0.1/-/21ms GET /householder/get] nodejs.TypeError: ctx.service.user.householder.get is not a function
+    at HouseholderController.get (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\householder.js:21:60)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:36:12
+
+pid: 91984
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-15 22:02:32,410 ERROR 15548 [-/127.0.0.1/-/3ms POST /householder/delModify] nodejs.ReferenceError: householderModel is not defined
+    at Function.HouseholderModel.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\model\user\householder.js:86:20)
+    at HouseholderService.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\service\user\householder.js:73:38)
+    at HouseholderController.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\householder.js:68:40)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+
+pid: 15548
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-15 22:03:16,850 ERROR 15548 [-/127.0.0.1/-/1ms POST /householder/delModify] nodejs.ReferenceError: householderModel is not defined
+    at Function.HouseholderModel.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\model\user\householder.js:86:20)
+    at HouseholderService.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\service\user\householder.js:73:38)
+    at HouseholderController.delModify (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\householder.js:68:40)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+
+pid: 15548
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-16 18:07:14,299 ERROR 13428 nodejs.ClusterClientNoResponseError: client no response in 1558900ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\cluster-client\lib\leader.js:79:25)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 13428
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-19 22:30:22,689 ERROR 2880 [-/127.0.0.1/-/24ms POST /user/login] nodejs.TypeError: Cannot read property 'body' of undefined
+    at CommonController.login (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\common.js:35:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async auth (C:\Users\lenovo\Desktop\work\householder-server-egg\app\middleware\auth.js:12:7)
+    at async C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 2880
+hostname: LAPTOP-ROIHKCTT
+

@@ -1,0 +1,24 @@
+2023-02-21 00:23:34,949 INFO 18832 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-21 00:23:34,949 INFO 18832 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-21 00:23:34,949 INFO 18832 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-21 00:23:35,639 INFO 13224 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 14784363ms at 2023-02-21 04:30:00.002
+2023-02-21 00:23:35,640 INFO 13224 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 84984360ms at 2023-02-22 00:00:00.000
+2023-02-21 00:23:35,641 INFO 13224 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 84985360ms at 2023-02-22 00:00:01.001
+2023-02-21 15:15:24,927 INFO 6288 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47675075ms at 2023-02-22 04:30:00.002
+2023-02-21 15:15:24,928 INFO 6288 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31475073ms at 2023-02-22 00:00:00.001
+2023-02-21 15:15:24,928 INFO 6288 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31476072ms at 2023-02-22 00:00:01.000
+2023-02-21 15:15:24,208 INFO 14520 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-21 15:15:24,208 INFO 14520 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-21 15:15:24,208 INFO 14520 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-21 23:28:37,930 INFO 10712 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-21 23:28:37,930 INFO 10712 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-21 23:28:37,930 INFO 10712 [egg-schedule]: register schedule C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-21 23:28:38,804 INFO 8316 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 18081199ms at 2023-02-22 04:30:00.003
+2023-02-21 23:28:38,804 INFO 8316 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 1881196ms at 2023-02-22 00:00:00.000
+2023-02-21 23:28:38,804 INFO 8316 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 1882196ms at 2023-02-22 00:00:01.000
+2023-02-22 00:00:00,008 INFO 10712 [Job#167699520000688671478894001] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-02-22 00:00:00,016 INFO 10712 [Job#167699520000688671478894001] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms. 
+2023-02-22 00:00:00,010 INFO 8316 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399993ms at 2023-02-23 00:00:00.003
+2023-02-22 00:00:01,011 INFO 10712 [Job#167699520101088681517458001] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-02-22 00:00:01,012 INFO 8316 [Timer] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399989ms at 2023-02-23 00:00:01.001
+2023-02-22 00:00:01,025 INFO 10712 [Job#167699520101088681517458001] C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 14ms. 

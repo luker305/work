@@ -1,0 +1,133 @@
+//字体大小
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-28 {
+    font-size: 28px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-42 {
+    font-size: 42px;
+}
+
+//外边距
+.mt-0 {
+    margin-top: 0 !important;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.ml-15 {
+    margin-left: 15px !important;
+}
+
+.ml-20 {
+    margin-left: 20px !important;
+}
+
+.ml-30 {
+    margin-left: 30px !important;
+}
+
+.mr-15 {
+    margin-right: 15px !important;
+}
+
+.mr-20 {
+    margin-right: 20px !important;
+}
+
+//内边距
+.p-0 {
+    padding: 0;
+}
+
+.p-20 {
+    padding: 20px !important;
+}
+
+.p-70 {
+    padding: 70px !important;
+}
+
+.pt-0 {
+    padding-top: 0;
+}
+
+.pb-50 {
+    padding-bottom: 50px !important;
+}
+
+.ptb-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.plr-20 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+//字体样式
+.text-bold {
+    font-weight: bold;
+}
+
+.text-dark-gray {
+    color: $--color-dark-gray;
+}
+
+.text-gray {
+    color: $--color-gray;
+}
+
+.text-red {
+    color: $--color-red;
+}
+
+.text-green {
+    color: $--color-green;
+}
+
+.text-primary {
+    color: $--color-primary;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

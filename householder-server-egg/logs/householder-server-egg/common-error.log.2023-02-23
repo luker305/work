@@ -1,0 +1,60 @@
+2023-02-22 00:27:18,130 ERROR 7884 [-/127.0.0.1/-/2ms POST /householder/delQuery] nodejs.TypeError: app.model.User.Householder.delQuery is not a function
+    at HouseholderService.delQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\app\service\user\householder.js:85:45)
+    at HouseholderController.delQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\householder.js:77:61)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+
+pid: 7884
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-22 00:27:18,137 ERROR 7884 [-/127.0.0.1/-/1ms POST /householder/delQuery] nodejs.TypeError: app.model.User.Householder.delQuery is not a function
+    at HouseholderService.delQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\app\service\user\householder.js:85:45)
+    at HouseholderController.delQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\app\controller\user\householder.js:77:61)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\koa-compose\index.js:44:32)
+
+pid: 7884
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-23 22:07:09,453 ERROR 25084 [-/127.0.0.1/-/17ms POST /householder/saveModify] nodejs.Error: WHERE parameter "uuid" has invalid "undefined" value
+    at MySQLQueryGenerator.whereItemQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1693:13)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1684:25
+    at Array.forEach (<anonymous>)
+    at MySQLQueryGenerator.whereItemsQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1682:35)
+    at MySQLQueryGenerator.whereQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1664:24)
+    at MySQLQueryGenerator.updateQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:337:116)
+    at MySQLQueryInterface.bulkUpdate (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-interface.js:361:37)
+    at Function.update (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\model.js:1958:54)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+
+pid: 25084
+hostname: LAPTOP-ROIHKCTT
+
+2023-02-23 22:14:56,199 ERROR 25084 [-/127.0.0.1/-/5ms POST /householder/saveModify] nodejs.Error: WHERE parameter "uuid" has invalid "undefined" value
+    at MySQLQueryGenerator.whereItemQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1693:13)
+    at C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1684:25
+    at Array.forEach (<anonymous>)
+    at MySQLQueryGenerator.whereItemsQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1682:35)
+    at MySQLQueryGenerator.whereQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1664:24)
+    at MySQLQueryGenerator.updateQuery (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-generator.js:337:116)
+    at MySQLQueryInterface.bulkUpdate (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\dialects\abstract\query-interface.js:361:37)
+    at Function.update (C:\Users\lenovo\Desktop\work\householder-server-egg\node_modules\sequelize\lib\model.js:1958:54)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+
+pid: 25084
+hostname: LAPTOP-ROIHKCTT
+

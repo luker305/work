@@ -1,0 +1,94 @@
+2023-02-20 00:00:01,108 INFO 8808 [egg-logrotator] app logger reload: got log-reload message
+2023-02-20 22:21:44,243 INFO 19504 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:21:44,270 INFO 19504 [egg-multipart] stream mode enable
+2023-02-20 22:21:44,271 INFO 19504 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:21:44,895 INFO 19504 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:21:44,898 INFO 19504 [egg-security] use methodnoallow middleware
+2023-02-20 22:21:44,899 INFO 19504 [egg-security] use noopen middleware
+2023-02-20 22:21:44,900 INFO 19504 [egg-security] use nosniff middleware
+2023-02-20 22:21:44,901 INFO 19504 [egg-security] use xssProtection middleware
+2023-02-20 22:21:44,902 INFO 19504 [egg-security] use xframe middleware
+2023-02-20 22:21:44,903 INFO 19504 [egg-security] use dta middleware
+2023-02-20 22:21:44,903 INFO 19504 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:21:44,917 INFO 19504 [egg:core] dump config after load, 6ms
+2023-02-20 22:21:44,949 INFO 19504 [egg-watcher:application] watcher start success
+2023-02-20 22:21:44,951 INFO 19504 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:21:44 GMT+0800 (GMT+08:00)
+2023-02-20 22:21:44,969 INFO 19504 [egg:core] dump config after ready, 8ms
+2023-02-20 22:24:31,844 INFO 19436 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:24:31,872 INFO 19436 [egg-multipart] stream mode enable
+2023-02-20 22:24:31,872 INFO 19436 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:24:32,444 INFO 19436 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:24:32,447 INFO 19436 [egg-security] use methodnoallow middleware
+2023-02-20 22:24:32,448 INFO 19436 [egg-security] use noopen middleware
+2023-02-20 22:24:32,449 INFO 19436 [egg-security] use nosniff middleware
+2023-02-20 22:24:32,449 INFO 19436 [egg-security] use xssProtection middleware
+2023-02-20 22:24:32,450 INFO 19436 [egg-security] use xframe middleware
+2023-02-20 22:24:32,451 INFO 19436 [egg-security] use dta middleware
+2023-02-20 22:24:32,451 INFO 19436 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:24:32,465 INFO 19436 [egg:core] dump config after load, 6ms
+2023-02-20 22:24:32,497 INFO 19436 [egg-watcher:application] watcher start success
+2023-02-20 22:24:32,498 INFO 19436 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:24:32 GMT+0800 (GMT+08:00)
+2023-02-20 22:24:32,523 INFO 19436 [egg:core] dump config after ready, 13ms
+2023-02-20 22:26:16,905 INFO 13796 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:26:16,936 INFO 13796 [egg-multipart] stream mode enable
+2023-02-20 22:26:16,936 INFO 13796 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:26:17,521 INFO 13796 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:26:17,523 INFO 13796 [egg-security] use methodnoallow middleware
+2023-02-20 22:26:17,524 INFO 13796 [egg-security] use noopen middleware
+2023-02-20 22:26:17,525 INFO 13796 [egg-security] use nosniff middleware
+2023-02-20 22:26:17,526 INFO 13796 [egg-security] use xssProtection middleware
+2023-02-20 22:26:17,527 INFO 13796 [egg-security] use xframe middleware
+2023-02-20 22:26:17,527 INFO 13796 [egg-security] use dta middleware
+2023-02-20 22:26:17,528 INFO 13796 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:26:17,543 INFO 13796 [egg:core] dump config after load, 8ms
+2023-02-20 22:26:17,574 INFO 13796 [egg-watcher:application] watcher start success
+2023-02-20 22:26:17,575 INFO 13796 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:26:17 GMT+0800 (GMT+08:00)
+2023-02-20 22:26:17,599 INFO 13796 [egg:core] dump config after ready, 11ms
+2023-02-20 22:30:49,002 INFO 20380 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:30:49,029 INFO 20380 [egg-multipart] stream mode enable
+2023-02-20 22:30:49,029 INFO 20380 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:30:49,597 INFO 20380 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:30:49,600 INFO 20380 [egg-security] use methodnoallow middleware
+2023-02-20 22:30:49,601 INFO 20380 [egg-security] use noopen middleware
+2023-02-20 22:30:49,602 INFO 20380 [egg-security] use nosniff middleware
+2023-02-20 22:30:49,602 INFO 20380 [egg-security] use xssProtection middleware
+2023-02-20 22:30:49,603 INFO 20380 [egg-security] use xframe middleware
+2023-02-20 22:30:49,604 INFO 20380 [egg-security] use dta middleware
+2023-02-20 22:30:49,604 INFO 20380 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:30:49,620 INFO 20380 [egg:core] dump config after load, 7ms
+2023-02-20 22:30:49,657 INFO 20380 [egg-watcher:application] watcher start success
+2023-02-20 22:30:49,658 INFO 20380 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:30:49 GMT+0800 (GMT+08:00)
+2023-02-20 22:30:49,679 INFO 20380 [egg:core] dump config after ready, 9ms
+2023-02-20 22:31:00,489 INFO 19444 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:31:00,519 INFO 19444 [egg-multipart] stream mode enable
+2023-02-20 22:31:00,520 INFO 19444 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:31:01,085 INFO 19444 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:31:01,088 INFO 19444 [egg-security] use methodnoallow middleware
+2023-02-20 22:31:01,088 INFO 19444 [egg-security] use noopen middleware
+2023-02-20 22:31:01,090 INFO 19444 [egg-security] use nosniff middleware
+2023-02-20 22:31:01,090 INFO 19444 [egg-security] use xssProtection middleware
+2023-02-20 22:31:01,091 INFO 19444 [egg-security] use xframe middleware
+2023-02-20 22:31:01,092 INFO 19444 [egg-security] use dta middleware
+2023-02-20 22:31:01,092 INFO 19444 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:31:01,106 INFO 19444 [egg:core] dump config after load, 6ms
+2023-02-20 22:31:01,138 INFO 19444 [egg-watcher:application] watcher start success
+2023-02-20 22:31:01,141 INFO 19444 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:31:01 GMT+0800 (GMT+08:00)
+2023-02-20 22:31:01,164 INFO 19444 [egg:core] dump config after ready, 13ms
+2023-02-20 22:31:06,610 INFO 19880 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"householder-server-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-20 22:31:06,638 INFO 19880 [egg-multipart] stream mode enable
+2023-02-20 22:31:06,638 INFO 19880 [egg-mysql] connecting zwq@127.0.0.1:3306/householder-list
+2023-02-20 22:31:07,221 INFO 19880 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\work\householder-server-egg\app\public
+2023-02-20 22:31:07,224 INFO 19880 [egg-security] use methodnoallow middleware
+2023-02-20 22:31:07,225 INFO 19880 [egg-security] use noopen middleware
+2023-02-20 22:31:07,226 INFO 19880 [egg-security] use nosniff middleware
+2023-02-20 22:31:07,227 INFO 19880 [egg-security] use xssProtection middleware
+2023-02-20 22:31:07,228 INFO 19880 [egg-security] use xframe middleware
+2023-02-20 22:31:07,228 INFO 19880 [egg-security] use dta middleware
+2023-02-20 22:31:07,228 INFO 19880 [egg-security] compose 6 middlewares into one security middleware
+2023-02-20 22:31:07,243 INFO 19880 [egg:core] dump config after load, 7ms
+2023-02-20 22:31:07,275 INFO 19880 [egg-watcher:application] watcher start success
+2023-02-20 22:31:07,276 INFO 19880 [egg-mysql] instance[0] status OK, rds currentTime: Mon Feb 20 2023 22:31:07 GMT+0800 (GMT+08:00)
+2023-02-20 22:31:07,299 INFO 19880 [egg:core] dump config after ready, 10ms
+2023-02-21 00:00:00,026 INFO 19880 [egg-logrotator] clean all log before 31 days
+2023-02-21 00:00:01,024 INFO 19880 [egg-logrotator] broadcast log-reload
+2023-02-21 00:00:01,025 INFO 19880 [egg-logrotator] rotate files success by DayRotator, files ["C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\common-error.log -> C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\common-error.log.2023-02-20","C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\householder-server-egg-web.log -> C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\householder-server-egg-web.log.2023-02-20","C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-web.log -> C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-web.log.2023-02-20","C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-schedule.log -> C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-schedule.log.2023-02-20","C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-agent.log -> C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\logs\\householder-server-egg\\egg-agent.log.2023-02-20"]

@@ -1,0 +1,53 @@
+{
+  "name": "householder-server-egg",
+  "version": "1.0.0",
+  "description": "住户信息管理系统",
+  "private": true,
+  "egg": {
+    "declarations": true
+  },
+  "dependencies": {
+    "egg": "^2",
+    "egg-jwt": "^3.1.7",
+    "egg-mysql": "^3.0.0",
+    "egg-scripts": "^2",
+    "egg-sequelize": "^6.0.0",
+    "egg-validate": "^2.0.2",
+    "fecha": "^4.2.3",
+    "lodash": "^4.17.21",
+    "mysql2": "^3.1.2",
+    "sequelize-automate": "^1.2.2"
+  },
+  "devDependencies": {
+    "egg-bin": "^4",
+    "egg-ci": "^2",
+    "egg-mock": "^4",
+    "eslint": "^8",
+    "eslint-config-egg": "^12"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "start": "egg-scripts start --daemon --title=egg-server-householder-server-egg",
+    "stop": "egg-scripts stop --title=egg-server-householder-server-egg",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "sequelize-automate": "sequelize-automate -t js -h localhost -d householder-list -u zwq -p 12345 -P 3306  -e mysql -o app/schema2"
+  },
+  "ci": {
+    "version": "16",
+    "type": "github"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "zwq",
+  "license": "MIT"
+}

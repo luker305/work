@@ -1,0 +1,344 @@
+{
+  "keys": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "type": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "jwt": {
+    "secret": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "port": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "user": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "password": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "database": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js"
+    },
+    "default": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "app": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "agent": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "database": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "host": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "port": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "username": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "password": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "timezone": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+    "define": {
+      "createdAt": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "updatedAt": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "freezeTableName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "underscored": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+      "getterMethods": {
+        "createdTime": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+        "lastModifiedTime": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js"
+      }
+    }
+  },
+  "middleware": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\config\\config.default.js",
+  "session": {
+    "maxAge": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "validate": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "fecha": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-automate": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-automate": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "type": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\lenovo\\Desktop\\work\\householder-server-egg\\node_modules\\egg\\config\\config.default.js"
+}
